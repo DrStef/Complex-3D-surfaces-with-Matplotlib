@@ -45,7 +45,7 @@ $\textcolor{#246EAA}{\textsf{Then we wondered which Matplotlib modules could rep
   src="icosahedron.png"
   alt="Alt text"
   title="Optional title"
-  width=300
+  width=375
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
 
@@ -59,7 +59,7 @@ $\textcolor{#246EAA}{\textsf{Then we wondered which Matplotlib modules could rep
   src="Helicoid_Catenoid_v3.gif"
   alt="Alt text"
   title="Optional title"
-  width=150
+  width=200
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
 
