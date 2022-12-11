@@ -1,15 +1,14 @@
 # Testing Matplotlib with complex 3D surfaces 
 
+ <p align="justify"> $\textcolor{#246EAA}{\textsf{Getting familiar with Matplotlib after using Matlab for over 20 years.}}$ 
+ $\textcolor{#246EAA}{\textsf{We test Matplotlib with complex 3D surfaces.}}$ </p>
 
- $\textcolor{#246EAA}{\textsf{Getting familiar with Matplotlib after using Matlab for over 20 years.}}$
- $\textcolor{#246EAA}{\textsf{We test Matplotlib with complex 3D surfaces.}}$
 
-
- > $\textcolor{#246EAA}{\textsf{The initial motivation for this work was to develop advanced sensor array beamforming algorithms with Python }}$ 
+  <p align="justify">  $\textcolor{#246EAA}{\textsf{The initial motivation for this work was to develop advanced sensor array beamforming algorithms with Python }}$ 
  $\textcolor{#246EAA}{\textsf{and complex Noise Reduction algorithms with Machine Learning or Deep Learning.}}$ 
  $\textcolor{#246EAA}{\textsf{The design of optimal sensor arrays requires plotting 3D beampatterns for visualizing and testing the performance of beamforming algorithms.}}$  
  $\textcolor{#246EAA}{\textsf{Animations are a plus.}}$ <br> 
- $\textcolor{#246EAA}{\textsf{Then we wondered which Matplotlib modules could replace simple Matlab functions for plotting 3D implicit surfaces and polyhedrons.}}$
+ $\textcolor{#246EAA}{\textsf{Then we wondered which Matplotlib modules could replace simple Matlab functions for plotting 3D implicit surfaces and polyhedrons.}}$ </p>
 
 
 
