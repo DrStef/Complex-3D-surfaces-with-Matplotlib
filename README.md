@@ -17,6 +17,13 @@ https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTI_Testing_Matplotlib_
 
 **Part II: 3D surfaces defined with implict equations: F(x,y,z)=0.**
 
+<img
+  src="tanglecube_v2.png"
+  alt="Alt text"
+  title="Optional title"
+  width=150
+  style="display: inline-block; margin: 0 auto; width=30">
+
 https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTII_Testing_Matplotlib_3D_implicit_surfaces_v5.ipynb
 
 
