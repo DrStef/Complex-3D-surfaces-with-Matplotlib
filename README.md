@@ -62,6 +62,14 @@ Then we wondered which Matplotlib modules could replace simple Matlab functions 
   width=200
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
+<p align="center">
+<img
+  src="Figure8_toroid_v3.gif"
+  alt="Alt text"
+  title="Optional title"
+  width=200
+  style="display: inline-block; margin: 0 auto; width=30">
+</p>
 
  #### <ul><ul><ul>[3D surfaces - Animations](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIV_Testing_Matplotlib_3D_Animations_v2.ipynb)  </ul> </ul> </ul>
 <br>
