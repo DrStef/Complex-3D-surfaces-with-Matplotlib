@@ -22,7 +22,7 @@ Then we wondered which Matplotlib modules could replace simple Matlab functions 
 
  #### <ul><ul><ul>[3D Parametric system](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTI_Testing_Matplotlib_3D_curves_surfaces_v5.ipynb)</ul></ul></ul>
 
-###  <ul> **Part II: 3D surfaces defined with implict equations: F(x,y,z)=0.**  </ul>
+###  <ul> **Part II: 3D surfaces defined with implicit equations: F(x,y,z)=0.**  </ul>
 
 <p align="center">
 <img
@@ -50,7 +50,7 @@ Then we wondered which Matplotlib modules could replace simple Matlab functions 
 </p>
 
 
-<ul>  https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIII_Testing_Matplotlib_3D_Polyhedrons_v3.ipynb  </ul>
+ #### <ul><ul><ul>[Polyhedrons](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIII_Testing_Matplotlib_3D_Polyhedrons_v3.ipynb)  </ul> </ul> </ul>
 
 ###  <ul>  **Part IV: 3D surfaces - Animations.**  </ul>
 
