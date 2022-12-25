@@ -63,8 +63,7 @@ Then we wondered which Matplotlib modules could replace simple Matlab functions 
   style="display: inline-block; margin: 0 auto; width=30">
 </p>
 
-<ul> https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIV_Testing_Matplotlib_3D_Animations_v2.ipynb  </ul>
-
+ #### <ul><ul><ul>[3D surfaces - Animations](https://github.com/DrStef/Testing_Matplotlib/blob/main/PARTIV_Testing_Matplotlib_3D_Animations_v2.ipynb)  </ul> </ul> </ul>
 <br>
 <br>
 
