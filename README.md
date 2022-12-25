@@ -2,8 +2,11 @@
 
 Getting familiar with Matplotlib after using Matlab for over 25 years. We test Matplotlib and Python with complex 3D surfaces and find the simplest method for plotting them. 
 <br>
+<br>
 The initial motivation for this work was to develop advanced sensors array beamforming algorithms with Python and complex Noise Reduction algorithms with Machine Learning or Deep Learning. <br> 
-The design of optimal sensors arrays requires plotting 3D beampatterns for visualizing and testing the performance of beamforming algorithms. Animations are a plus. <br> 
+The design of optimal sensors arrays requires plotting 3D beampatterns for visualizing and testing the performance of beamforming algorithms. Animations are a plus. 
+<br>
+<br>
 Then we wondered which Matplotlib modules could replace simple Matlab functions for plotting 3D implicit surfaces and polyhedrons. 
 
 ### <ul> **Part I: 3D curves and surfaces defined with Parametric systems.** </ul>
