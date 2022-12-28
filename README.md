@@ -1,6 +1,6 @@
 # Testing Matplotlib with complex 3D surfaces 
 
-Getting familiar with Matplotlib after using Matlab for over 25 years. We test Matplotlib and Python with complex 3D surfaces and find the simplest method for plotting them. 
+We test Matplotlib and Python with complex 3D surfaces and find the simplest method for plotting them. 
 <br>
 <br>
 The initial motivation for this work was to develop advanced sensors array beamforming algorithms with Python and complex Noise Reduction algorithms with Machine Learning or Deep Learning. <br> 
